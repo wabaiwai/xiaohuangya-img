@@ -1,2 +1,2 @@
 # xiaohuangya-img
-上床图片
+上传图片
